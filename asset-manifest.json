@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wewew/static/css/main.b1fdc310.css",
+    "main.js": "/wewew/static/js/main.9af0a61f.js",
+    "static/media/img.png": "/wewew/static/media/img.df0fbbdd320d35a99414.png",
+    "static/media/ai.png": "/wewew/static/media/ai.c4c730c1f0132030d22c.png",
+    "static/media/image 1.svg": "/wewew/static/media/image 1.1aa9bb1b7fd8ca53a15e.svg",
+    "static/media/model.png": "/wewew/static/media/model.2274474740f254a1cb0e.png",
+    "static/media/background-girl.jpg": "/wewew/static/media/background-girl.0214151d0eefbd530805.jpg",
+    "static/media/sparta.jpg": "/wewew/static/media/sparta.b9ece2c989d56450b366.jpg",
+    "static/media/adobe.jpg": "/wewew/static/media/adobe.f17711caf4c8affe0bf7.jpg",
+    "static/media/123.png": "/wewew/static/media/123.2bba936c74cd52392faa.png",
+    "static/media/bg.png": "/wewew/static/media/bg.0c0ca56683cfb710e052.png",
+    "static/media/expimg.png": "/wewew/static/media/expimg.cc668e79d8b5870ddf6b.png",
+    "index.html": "/wewew/index.html",
+    "main.b1fdc310.css.map": "/wewew/static/css/main.b1fdc310.css.map",
+    "main.9af0a61f.js.map": "/wewew/static/js/main.9af0a61f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1fdc310.css",
+    "static/js/main.9af0a61f.js"
+  ]
+}
